@@ -1,1 +1,1 @@
-# Contacts-DATA-STRUCTURE-MEDIUM
+# Contacts-DATA-STRUCTURE-MEDIUM.This solution uses a Trie (prefix tree) data structure to efficiently handle contact operations - adding names and finding how many contacts start with a given prefix by storing count at each node.
